@@ -1,0 +1,14 @@
+
+.DS_Store
+
+.actionScriptProperties
+
+.flexLibProperties
+
+.project
+
+.settings/com.adobe.flexbuilder.project.prefs
+
+.settings/org.eclipse.core.resources.prefs
+
+bin/lib-nano-3d.swc
